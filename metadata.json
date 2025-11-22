@@ -1,0 +1,8 @@
+{
+  "name": "EarthGuard BD",
+  "description": "A comprehensive earthquake preparedness and emergency response agent for the people of Bangladesh, powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
